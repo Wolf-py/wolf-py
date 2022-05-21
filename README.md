@@ -9,6 +9,8 @@ This is a python weebhook-manager
 -----
 <p align="center">REQUIREMENT 📚</p>
 
-`python 3.7`
-`pip install pystyle`
-for install requirement run install.bat
+`-python 3.7`
+
+`-pip install pystyle`
+
+for install requirement run `install.bat`
