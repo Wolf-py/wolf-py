@@ -6,6 +6,8 @@
 This is a python weebhook-manager 
 </strong>
 
+For start the tool make in a cmd `python index.py`
+
 -----
 <p align="center">REQUIREMENT 📚</p>
 
