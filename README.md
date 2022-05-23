@@ -1,18 +1,7 @@
------
 
-<p align="center">Information 👤</p>
+<img align='right' width="400" height="150" src="https://i.ibb.co/n1kvnfr/banner-pinokaille.gif">
 
-<strong>
-This is a python weebhook-manager 
-</strong>
+# Hi 👋 
+## &#x1f4c8; Stats
 
-For start the tool make in a cmd `python index.py`
-
------
-<p align="center">REQUIREMENT 📚</p>
-
-`-python 3.7`
-
-`-pip install pystyle`
-
-for install requirement run `install.bat`
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinokaille&layout=compact&theme=omni&show_icons=true)](https://github.com/pinokaille)
