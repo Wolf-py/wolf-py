@@ -1,5 +1,5 @@
 
-<img align='right' width="400" height="150" src="https://i.ibb.co/n1kvnfr/banner-pinokaille.gif">
+<img align='right' width="400" height="150" src="https://i.pinimg.com/originals/24/75/cc/2475ccfb055940a4c374533122827a35.gif">
 
 # Hi 👋 
 ## &#x1f4c8; Stats
