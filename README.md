@@ -4,6 +4,7 @@
 # Salut 
 ## &#x1f4c8; Stats
 
+----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolf-py&layout=compact&theme=omni&show_icons=true)](https://github.com/Wolf-py)
 
 ----
